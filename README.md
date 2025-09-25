@@ -1,1 +1,1 @@
-# Lab07
+Përdora operatorët aritmetikë si +, -, *, /, //, %, dhe ** për të kryer llogaritje, si dhe operatorët krahasues si ==, !=, <, <=, >, >= për të kontrolluar kushte. Kombinova kushte me and, or, not për të marrë vendime të sakta. Ndërtova shprehje logjike që përfshijnë edhe rastet kufi dhe testova programe me input/output konkret, duke identifikuar dhe korrigjuar gabimet.
